@@ -56,12 +56,6 @@ class UpdateMonthlyAttendanceScores extends Command
                         $score=$score+10;
     
                     }
-    
-                    if($monthlyAttendance->status == "absent"){
-    
-                        $score=$score-10;
-    
-                    } 
                     
                 }
                 //$this->info($score);
