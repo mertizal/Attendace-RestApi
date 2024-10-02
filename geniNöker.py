@@ -42,7 +42,7 @@ async def on_ready():
     channel = bot.get_channel(channel_id)
     if channel:
         developer_role_id = 1014167456224387092
-        await channel.send(f"<@&{developer_role_id}> Günaydın Uyanma vakti. Burada olduğunuzu kanıtlamak için 5 dakikanız var!", view=MyView(timeout=3000))
+        await channel.send(f"<@&{developer_role_id}> Günaydın Uyanma vakti. Burada olduğunuzu kanıtlamak için 11:10'a kadar süreniz var.", view=MyView(timeout=3000))
     else:
         print("Channel not found")
 

@@ -49,3 +49,28 @@
 2024-09-09 10:59:58,064 INFO supervisord started with pid 1
 2024-09-09 10:59:59,068 INFO spawned: 'php' with pid 9
 2024-09-09 11:00:00,070 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-09-11 12:38:06,500 WARN received SIGTERM indicating exit request
+2024-09-11 12:38:06,500 INFO waiting for php to die
+2024-09-11 12:38:06,524 INFO stopped: php (exit status 0)
+2024-09-12 11:17:41,826 INFO Set uid to user 0 succeeded
+2024-09-12 11:17:41,828 INFO supervisord started with pid 1
+2024-09-12 11:17:42,830 INFO spawned: 'php' with pid 9
+2024-09-12 11:17:44,489 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-09-25 12:59:58,255 WARN received SIGTERM indicating exit request
+2024-09-25 12:59:58,269 INFO waiting for php to die
+2024-09-25 12:59:58,307 INFO stopped: php (exit status 0)
+2024-09-25 23:19:41,297 INFO Set uid to user 0 succeeded
+2024-09-25 23:19:41,299 INFO supervisord started with pid 1
+2024-09-25 23:19:42,302 INFO spawned: 'php' with pid 9
+2024-09-25 23:19:43,963 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-09-27 13:21:29,387 WARN received SIGTERM indicating exit request
+2024-09-27 13:21:29,387 INFO waiting for php to die
+2024-09-27 13:21:30,410 INFO stopped: php (exit status 0)
+2024-09-27 16:28:41,708 INFO Set uid to user 0 succeeded
+2024-09-27 16:28:41,710 INFO supervisord started with pid 1
+2024-09-27 16:28:42,712 INFO spawned: 'php' with pid 9
+2024-09-27 16:28:44,369 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-10-02 15:02:51,828 INFO reaped unknown pid 57441 (terminated by SIGKILL)
+2024-10-02 15:03:04,844 INFO reaped unknown pid 57442 (terminated by SIGKILL)
+2024-10-02 15:03:12,853 INFO reaped unknown pid 57443 (terminated by SIGKILL)
+2024-10-02 15:03:40,881 INFO reaped unknown pid 57452 (terminated by SIGKILL)
